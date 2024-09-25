@@ -5,7 +5,7 @@
 }
 body{
     padding: 2rem;
-    background-color: rgb(181, 210, 255);
+   background-color:hsl(212, 45%, 89%) ;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -20,7 +20,7 @@ body{
 
 }
 img{
-    max-width: 100%;
+ max-width: 100%;
     height: auto;
     border-radius: 20px;
     display: block;
